@@ -9,8 +9,8 @@ A simple Python project with:
 ## Project Files
 | File | Work |
 |------|------|
-| `app.py` | Database connection, save user, search user |
-| `main.py` | Menu, Register, Login |
+| `database.py` | Database connection, save user, search user |
+| `front.py` | Menu, Register, Login |
 
 ## Requirements
 - Python 3.x
